@@ -94,7 +94,7 @@ ElemForces_Final = simplify(ElemForces(:,2)) % Simplify the Expressions
 %% For validation of the results, provide numeric values for specific inputs
 % We use units m and kN for all inputs, and outputs will follow
 % You can use any other consistent system of units
-NumericInputs = [6 8 2e4 100] % For variables: [L H EA P]
+NumericInputs = [4 6 2e4 100] % For variables: [L H EA P]
 
 UNodes_Final_Numeric = double(subs(UNodes_Final, [L,H,EA,P], NumericInputs))
 FReactions_Final_Numeric = double(subs(FReactions_Final, [L,H,EA,P], NumericInputs))
