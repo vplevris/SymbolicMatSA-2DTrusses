@@ -1,4 +1,4 @@
-# SymbolicMSA-2DTrusses
+# SymbolicMatSA-2DTrusses
 Symbolic Matrix Structural Analysis: 2D Trusses
 
 For details, see the paper:
