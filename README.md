@@ -1,13 +1,17 @@
 # SymbolicMatSA-2DTrusses
 Symbolic Matrix Structural Analysis: 2D Trusses
 
-For details, see the paper:
+For details, see the papers:
 
+Preprint:
 Deriving Analytical Solutions Using Symbolic Matrix Structural Analysis: Part 2 -- Plane Trusses
 Vagelis Plevris, Afaq Ahmad
 arXiv:2411.16573
-
 https://doi.org/10.48550/arXiv.2411.16573
+
+Final paper:
+V. Plevris and A. Ahmad, “Deriving Analytical Solutions Using Symbolic Matrix Structural Analysis: Part 2 – Plane Trusses”, Heliyon, 11(4), 2025 (First online: 6 February 2025). DOI: 10.1016/j.heliyon.2025.e42372
+https://doi.org/10.1016/j.heliyon.2025.e42372
 
 Abstract:
 
